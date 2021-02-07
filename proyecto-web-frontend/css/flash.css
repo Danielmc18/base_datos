@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../images/rayos.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    font-size: 25px;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(170, 250, 90);
+    text-shadow: 2px 0px 2px orangered;
+    border-radius: 10px;
+    width: 300px;
+    position: relative;
+    left: 500px;
+}
+
+#contenedor{
+    border-radius: 10px;
+    background-color: darkgray;
+    margin: 15px;
+    padding: 10px;
+}
+
+#contenedor img{
+    width: 500px;
+    height: auto;
+}
+
+#contenedor img.centro{
+    position: relative;
+    left: 370px;
+}
+
+#contenedor p a:hover{
+    text-decoration: none;
+    font-weight: bold;
+    color: azure;
+}

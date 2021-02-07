@@ -1,0 +1,48 @@
+body{
+    background-image: url(../images/sasuke.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+.contenedor{
+    margin: 30px;
+    position: relative;
+    left: 500px;
+    top: 100px;
+    box-sizing: content-box;
+    
+    border: 10px solid rgb(130, 26, 130);
+    
+    padding: 10px;
+    width: 300px;
+    height: auto;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+.contenedor .inicio h1{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+.contenedor .inicio .formulario .pie{
+    font-weight: bold;
+    display: inline;
+}
+
+.contenedor .inicio .formulario .boton input{
+    font-size: 19px;
+    position: relative;
+    left: 220px;
+    background-color: rgb(159, 72, 240);
+
+
+}

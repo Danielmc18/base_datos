@@ -1,0 +1,28 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: aliceblue;
+    background-image: url(../images/libros.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+h1{
+    text-shadow: 3px 3px 3px  rgb(17, 14, 14);
+    font-size: 40px;
+    text-align: center;
+}
+
+h2{
+    font-size: 29px;
+    text-shadow: 3px 3px 3px rgb(243, 134, 94);
+    text-align: center;
+}
+a img{
+
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 600px;
+}

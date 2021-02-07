@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../images/owari-fondo.jpg);
+    background-attachment: fixed;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-position: center center;
+    font-size: 25px;
+    text-align: justify;
+}
+
+h1{
+    font-size: 50px;
+    position: relative;
+    left: 500px;
+    width: 430px;
+    border-radius: 15px;
+    background-color: aliceblue;
+    color: rgb(253, 217, 172);
+}
+
+#contenedor{
+    border-radius: 15px;
+    margin: 30px;
+    padding: 10px;
+    background-color: blanchedalmond;
+}
+
+#contenedor img{
+    width: 500px;
+    height: auto;
+    position: relative;
+    left: 400px;
+}
+
+#contenedor p a:hover{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}

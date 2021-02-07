@@ -1,0 +1,55 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../images/47775-akame-ga-kill-akame-ga-kill.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    font-size: 25px;
+    text-align: justify;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 2px 2px 0px red;
+} 
+
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 2px 2px 0px red;
+    text-align: center;
+}
+
+
+p{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+
+#contenedor{
+  font-size: 25px;
+  font-weight: bold;
+  background-color: aliceblue;
+  color: black;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px;
+
+}
+
+#contenedor img{
+    width: 500px;
+    height: auto;
+    position: relative;
+    left: 400px;
+}
+
+#contenedor p a:hover{
+    text-decoration: none;
+    font-weight: bold;
+    
+}  
